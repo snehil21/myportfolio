@@ -43,4 +43,4 @@ email, and message to send you an email directly from the website.
    git clone https://github.com/snehil21/myportfolio.git
 2. Deployed Link
    ```deployed link
-   https://64a097bdc002916dc18b57de--lucent-douhua-160566.netlify.app/
+   https://theworkofsnehil.netlify.app/
